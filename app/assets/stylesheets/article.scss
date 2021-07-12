@@ -25,13 +25,12 @@ $avatar-size: 32px;
       border-radius: 100%;
       margin-right: 16px;
     }
-  
 
-  &_actions {
-    right: 0px;
-    position: absolute;
+    &_actions {
+      right: 0px;
+      position: absolute;
+    }
   }
-}
 
   &_content {
     padding: 24px 0 32px;
